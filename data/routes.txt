@@ -1,1 +1,3 @@
 /pages/create-panel-page
+/emissions-by-date/manage
+/emissions-by-date
